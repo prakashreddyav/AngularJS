@@ -102,6 +102,8 @@
     </Content>
     <Content Include="e2e\tsconfig.e2e.json" />
     <Content Include="src\api\products\products.json" />
+    <Content Include="src\app\products\product-detail.component.css" />
+    <Content Include="src\app\products\product-detail.component.html" />
     <Content Include="src\app\products\product-list.component.css" />
     <Content Include="src\tsconfig.app.json" />
     <Content Include="src\tsconfig.spec.json" />
@@ -143,6 +145,8 @@
     <TypeScriptCompile Include="src\app\app.component.ts" />
     <TypeScriptCompile Include="src\app\app.module.ts" />
     <TypeScriptCompile Include="src\app\home\welcome.component.ts" />
+    <TypeScriptCompile Include="src\app\products\product-detail.component.spec.ts" />
+    <TypeScriptCompile Include="src\app\products\product-detail.component.ts" />
     <TypeScriptCompile Include="src\app\products\product-list.component.ts" />
     <TypeScriptCompile Include="src\app\products\product.service.ts" />
     <TypeScriptCompile Include="src\app\products\product.ts" />
