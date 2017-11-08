@@ -147,6 +147,8 @@
     <TypeScriptCompile Include="src\app\home\welcome.component.ts" />
     <TypeScriptCompile Include="src\app\products\product-detail.component.spec.ts" />
     <TypeScriptCompile Include="src\app\products\product-detail.component.ts" />
+    <TypeScriptCompile Include="src\app\products\product-guard.service.spec.ts" />
+    <TypeScriptCompile Include="src\app\products\product-guard.service.ts" />
     <TypeScriptCompile Include="src\app\products\product-list.component.ts" />
     <TypeScriptCompile Include="src\app\products\product.service.ts" />
     <TypeScriptCompile Include="src\app\products\product.ts" />
