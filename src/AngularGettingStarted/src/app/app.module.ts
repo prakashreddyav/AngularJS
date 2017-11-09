@@ -6,7 +6,7 @@ import { RouterModule } from '@angular/router'
 
 import { AppComponent } from './app.component';
 import { ProductListComponent } from './products/product-list.component';
-import { convertTospacesPipe } from './shared/convert-to-spaces.pipe';
+import { convertToSpacesPipe } from './shared/convert-to-spaces.pipe';
 import { StarComponent } from './shared/start.component';
 import { ProductDetailComponent } from './products/product-detail.component';
 import { WelcomeComponent } from './home/welcome.component';
@@ -16,7 +16,7 @@ import { ProductGuardService } from './products/product-guard.service';
   declarations: [
       AppComponent,
       ProductListComponent,
-      convertTospacesPipe,
+      convertToSpacesPipe,
       StarComponent,
       ProductDetailComponent,
       WelcomeComponent
